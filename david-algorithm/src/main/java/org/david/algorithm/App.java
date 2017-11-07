@@ -1,4 +1,4 @@
-package org.david.concurrent;
+package org.david.algorithm;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package org.david.concurrent;
+package org.david.algorithm;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
